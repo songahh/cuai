@@ -19,5 +19,5 @@ CUAI에서 한 공부 정리!🌻
 **5. 웹크롤링**
 * Selenium & BeatifulSoup4를 이용한 다음 웹툰, 카카오 페이지 크롤링
 
-# 2학기
+## 2학기
 **1. recommendation_system**
